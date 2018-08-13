@@ -1,0 +1,20 @@
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\german\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\programming\Project_SportStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
